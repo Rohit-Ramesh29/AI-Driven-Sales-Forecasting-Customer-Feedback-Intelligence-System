@@ -1,0 +1,16 @@
+date,sales,temperature,holiday,promotion,customer_feedback
+2023-01-01,210,25,1,1,"Loved the discount, great value"
+2023-01-02,180,26,0,0,Delivery was slow
+2023-01-03,220,27,0,1,Amazing quality and fast shipping
+2023-01-04,160,28,0,0,Product was damaged
+2023-01-05,300,24,1,1,Festival offer was excellent
+2023-01-06,250,23,0,1,Satisfied with the service
+2023-01-07,140,22,0,0,Not worth the price
+2023-01-08,320,25,1,1,Best purchase ever
+2023-01-09,200,26,0,0,Customer support was helpful
+2023-01-10,150,27,0,0,Poor packaging
+2023-02-01,280,29,1,1,Good quality product
+2023-02-02,230,30,0,0,Late delivery
+2023-02-03,310,28,1,1,"Huge savings, very happy"
+2023-02-04,170,27,0,0,Did not like the material
+2023-02-05,350,26,1,1,Fantastic experience
